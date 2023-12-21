@@ -21,7 +21,7 @@
   --cal-bg-dark-error: hsla(2, 55%, 30%, 1);
 
   /* Borders */
-  --cal-border-emphasis: hsla(218, 11%, 65%,1);
+  --cal-border-emphasis: hsla(218, 11%, 65%, 1);
   --cal-border: hsla(216, 12%, 84%, 1);
   --cal-border-subtle: hsla(220, 13%, 91%, 1);
   --cal-border-booker: #e5e7eb;
@@ -51,7 +51,7 @@
 .dark {
   /* background */
 
-  --cal-bg-emphasis: hsla(0, 0%, 32%, 1);
+  --cal-bg-emphasis: hsla(0, 0%, 32%,1);
   --cal-bg: hsla(0, 0%, 10%, 1);
   --cal-bg-subtle: hsla(0, 0%, 18%, 1);
   --cal-bg-muted: hsla(0, 0%, 12%, 1);
